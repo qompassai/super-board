@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "super-board (fork of EricTechPro/super-board)"
+authors:
+  - family-names: Porter
+    given-names: Matthew A.
+    orcid: "https://orcid.org/0000-0002-0302-4812"
+    affiliation: "Qompass AI"
+version: "v2026-10-17"
+date-released: 2026-10-17
+license: Apache-2.0
+repository-code: "https://github.com/qompassai/super-board"
+abstract: "Fork of EricTechPro/super-board (https://github.com/EricTechPro/super-board), held in the Qompass AI GitHub estate. Authorship of the underlying work belongs to the upstream project. Repository description: Autonomous GitHub Project build → QA → review loop for Claude Code. One-line install."
